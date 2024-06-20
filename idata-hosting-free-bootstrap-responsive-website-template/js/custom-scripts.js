@@ -1,6 +1,6 @@
 /*
-Author: webthemez.com
-Author URL: http://webthemez.com
+Author: InstaOnPC.com
+Author URL: http://InstaOnPC.com
 */
 jQuery(function($) {
     'use strict';

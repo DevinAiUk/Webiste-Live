@@ -11,9 +11,9 @@ Features :
 
 Credits :
 -------
-=> Design and developed: "WebThemez"  http://webthemez.com
+=> Design and developed: "InstaOnPC"  http://InstaOnPC.com
 => Photos used in template: **Unsplash** - http://unsplash.com
-=> For more free web themes: http://webthemez.com
+=> For more free web themes: http://InstaOnPC.com
 => Framework : http://getbootstrap.com
 
 License :

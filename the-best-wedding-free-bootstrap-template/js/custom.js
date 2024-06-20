@@ -1,9 +1,9 @@
 // Custom Script
 // Developed by: Samson.Onna
-// CopyRights : http://webthemez.com
+// CopyRights : http://InstaOnPC.com
 
 /*
-Theme by: WebThemez.com
+Theme by: InstaOnPC.com
 Note: donate to remove backlink form the site
 */
 $( function() {

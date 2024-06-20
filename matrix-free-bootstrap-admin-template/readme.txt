@@ -20,9 +20,9 @@ Fully Customizable
 
 Credits :
 -------
-=> Design and developed: "WebThemez"  http://webthemez.com  
+=> Design and developed: "InstaOnPC"  http://InstaOnPC.com
 => Framework : http://getbootstrap.com
-=> webthemez@gmail.com
+=> InstaOnPC@gmail.com
 => Donate and remove back link in the footer
 
 License :

@@ -1,5 +1,5 @@
-/* Author:WebThemez
- * Author URI:http://webthemez.com
+/* Author:InstaOnPC
+ * Author URI:http://InstaOnPC.com
  * License: Creative Commons Attribution 3.0 License (https://creativecommons.org/licenses/by/3.0/)
  */
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,700italic,400,700);
@@ -350,7 +350,8 @@ background-color: #FFFFFF;}
 text-align:center;
 }
 .hero-caption p{
-color: #000;
+
+color: #000;
 }
  .fa-angle-down {
     position: absolute;

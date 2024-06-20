@@ -1,7 +1,7 @@
 /* 
-Author: WebThemez.com
-Website: http://webthemez.com
-Note: Please do not remove the footer backlink (webthemez.com)--(if you want to remove contact: webthemez@gmail.com)
+Author: InstaOnPC.com
+Website: http://InstaOnPC.com
+Note: Please do not remove the footer backlink (InstaOnPC.com)--(if you want to remove contact: InstaOnPC@gmail.com)
 Licence: Creative Commons Attribution 3.0** - http://creativecommons.org/licenses/by/3.0/
 */
 jQuery(document).ready(function ($) {
